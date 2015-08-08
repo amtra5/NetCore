@@ -1,4 +1,4 @@
-# NetCore
+NetCore v1.1
 Based on https://msdn.microsoft.com/en-us/library/aa478452.aspx
 
 ---------------
