@@ -46,7 +46,7 @@ End Sub
 
 AddHandler server.evtClientConnected, AddressOf OnConnected 
 AddHandler server.evtClientDisconnected, AddressOf OnDisconnected
-AddHandler server.evtRecieved, AddressOf OnLineReceived
+AddHandler server.evtReceived, AddressOf OnLineReceived
 
 ...
 
